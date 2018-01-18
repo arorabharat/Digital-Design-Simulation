@@ -1,0 +1,28 @@
+Command line:
+   Mealy_Detector_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  64563
+
+Sun Nov 20 02:59:48 2016
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 348.922 Meg
+
+ Total Signals          : 15
+ Total Nets             : 15
+ Total Signal Drivers   : 9
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 16
+ Total Traceable Variables  : 28
+ Total Scalar Nets and Variables : 111
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 348.922 Meg
+
+Sun Nov 20 04:14:28 2016
+

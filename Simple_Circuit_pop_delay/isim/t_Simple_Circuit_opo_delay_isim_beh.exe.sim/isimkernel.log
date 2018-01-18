@@ -1,0 +1,28 @@
+Command line:
+   t_Simple_Circuit_opo_delay_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57698
+
+Sun Nov 13 22:37:03 2016
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 348.885 Meg
+
+ Total Signals          : 19
+ Total Nets             : 17
+ Total Signal Drivers   : 11
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 14
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 100
+
+ Total Simulation Time: 0.421875 sec
+
+ Current Memory Usage: 348.885 Meg
+
+Sun Nov 13 22:42:56 2016
+
